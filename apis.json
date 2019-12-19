@@ -1,0 +1,47 @@
+{
+    "name": "DigitalGov",
+    "description": "DigitalGov: We\u2019re helping you build a modern government.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2942-digitalgov.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/digitalgov\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DigitalGov",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2942-digitalgov.jpg",
+            "humanURL": "http:\/\/www.digitalgov.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/digitalgov-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/digitalgov-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.digitalgov.gov\/feed\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/digital_gov"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.digitalgov.gov\/"
+        }
+    ]
+}
